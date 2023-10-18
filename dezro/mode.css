@@ -1,0 +1,22 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    background-color:rgb(23, 246, 23);
+}
+
+body{
+    background: url(./image/wolf.jpg)center/cover;
+    min-height:100vh;
+    min-width: 50vh;
+    main {
+        height: 400px;
+        background-color: rgb(0, 68, 255);
+        background-origin: 2px;rd
+    }
+}
+table-layout: red;
+main {
+    height: 400px;
+    background-color: rgb(0, 68, 255);
+    
+}
